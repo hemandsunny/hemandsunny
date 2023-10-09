@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hemandsunny
-- 👀 I’m interested in web development,ai,software development,IoT,embedded system etc.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on web projects.
+- 👀 I’m interested in Robotics,AI,Embedded system,Web Development.
+- 🌱 I’m currently learning python,ROS,ML.
+- 💞️ I’m looking to  increase my skillset.
 - 📫 How to reach me LinkedIn @Hemand Sunny.
 
 <!---
