@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hemandsunny
 - 👀 I’m interested in Robotics,AI,Embedded system,Web Development.
 - 🌱 I’m currently learning python,ROS,ML.
-- 💞️ I’m looking to  increase my skillset.
+- 💞️ I’m looking to  increase my skillset and connect with others.
 - 📫 How to reach me LinkedIn @Hemand Sunny.
 
 <!---
