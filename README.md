@@ -13,9 +13,9 @@
 - ⚙️ Experimenting with **obstacle detection**  
 
 ## 🏆 Skills  
-- **Programming:** Python, C, ROS, Linux
+- **Programming:** Python, C, Linux
 - **Hardware:** Jetson Nano, Arduino
-- **Software:** OpenCV, VS Code, Gazebo 
+- **Software:** OpenCV, VS Code, ROS 
 
 ## 📫 Let's Connect  
 - 🌍 Website (https://hemandsunny.github.io)  
