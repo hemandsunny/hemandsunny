@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @hemandsunny
-- 👀 I’m interested in Robotics,AI,Embedded system.
-- 🌱 I’m currently learning python,ROS,ML.
-- 💞️ I’m looking to  increase my skillset and connect with others.
-- 📫 How to reach me LinkedIn @Hemand Sunny.
+# Hi there, I'm Hemand! 👋  
+
+🚀 **Robotics & Embedded Systems Enthusiast** | 💡 Passionate about AI & Computer Vision  
+
+## 🛠️ About Me  
+- 🔧 Working with **Jetson Nano, Arduino Mega, stereo cameras, and haptic motors**  
+- 🤖 Exploring **robotics, embedded systems, and AI**  
+- 🎯 Focused on **Embedded systems and AI**  
+
+## 🔬 Current Projects  
+- 🦾 Building an **assistive robotic system**. 
+- 🎥 Working on **stereo vision and obstacle avoidance**  
+- ⚙️ Experimenting with **URDF modeling in Fusion 360**  
+
+## 🏆 Skills  
+- **Programming:** Python, C, ROS, Linux
+- **Hardware:** Jetson Nano, Arduino
+- **Software:** OpenCV, VS Code, Gazebo 
+
+## 📫 Let's Connect  
+- 🌍 [Portfolio/Website (if available)](https://hemandsunny.github.io)  
+- 🐦 [Twitter](https://twitter.com/hemandsunny)  
+- 💼 [LinkedIn](https://linkedin.com/in/hemandsunny)  
+
+--- 
+
+
+
 
 <!---
 hemandsunny/hemandsunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
