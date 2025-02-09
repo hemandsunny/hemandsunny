@@ -3,7 +3,7 @@
 🚀 **Robotics & Embedded Systems Enthusiast** | 💡 Passionate about AI & Computer Vision  
 
 ## 🛠️ About Me  
-- 🔧 Working with **Jetson Nano**  
+- 🔧 Working with **ESP32, Arduino and Jetson Nano**  
 - 🤖 Exploring **robotics, embedded systems, and AI**  
 - 🎯 Focused on **Embedded systems and AI**  
 
