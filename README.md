@@ -5,7 +5,7 @@
 ## 🛠️ About Me  
 - 🔧 Working with **ESP32, Arduino and Jetson Nano**  
 - 🤖 Exploring **robotics, embedded systems, and AI**  
-- 🎯 Focused on **Embedded systems and AI**  
+- 🎯 Focused on **Robotic Vision**  
 
 ## 🔬 Current Projects  
 - 🦾 Building an **assistive robotic system**. 
