@@ -14,7 +14,7 @@
 
 ## 🏆 Skills  
 - **Programming:** Python, C, Linux
-- **Hardware:** Jetson Nano, Arduino
+- **Hardware:** Jetson Nano, Arduino, ESP
 - **Software:** OpenCV, VS Code, ROS 
 
 ## 📫 Let's Connect  
